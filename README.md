@@ -1,10 +1,10 @@
 # Resthome
 
 Ce projet est un Application Web composé de trois services de base qui sont la commande, la 
-réservation et le Menu principale.
-✓ La commande : Tout le monde peut commander sans avoir besoin d'un Serveur 
-✓ Réservation : Tout le monde peut réserver une bonne place 
-✓ Menu principale (la carte) : carte des repas avec les prix
+réservation et le Menu principale.                                          
+✓ La commande : Tout le monde peut commander sans avoir besoin d'un Serveur                                          
+✓ Réservation : Tout le monde peut réserver une bonne place                                              
+✓ Menu principale (la carte) : carte des repas avec les prix                                             
 
 #Problématique
 
