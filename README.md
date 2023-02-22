@@ -8,25 +8,25 @@ réservation et le Menu principale.
 
 #Problématique
 
-✓ Difficulté à simplifier la liste des mises à jour et des prix 
-✓ Décélérez le processus de commande 
-✓ Traduction de la carte de menu pour restaurant à une langue
-✓ Les images des plats de menu papier de mauvaise qualité =
+✓ Difficulté à simplifier la liste des mises à jour et des prix                                                               
+✓ Décélérez le processus de commande                                                                         
+✓ Traduction de la carte de menu pour restaurant à une langue                                                      
+✓ Les images des plats de menu papier de mauvaise qualité                                                               
 
 #Objictifs
 
-Réservations en ligne pour augmenter l'efficacité des restaurants
-Augmentation de la valeur des commandes
-Modifier son menu en une clic
+Réservations en ligne pour augmenter l'efficacité des restaurants                                                        
+Augmentation de la valeur des commandes                                                   
+Modifier son menu en une clic                                                                    
 Meilleure qualité de service 
-Traduction de la carte dans plusieurs langues
-Des photos pour illustrer vos plats, vos recettes
+Traduction de la carte dans plusieurs langues                                                            
+Des photos pour illustrer vos plats, vos recettes                                                        
 la protection des informations
 
 #Outils
 
-1 - HTML,CSS,JS                                                                     
-2 - PHP,SQL,Mysql
+1 - HTML,CSS,JS                                                                                                                                          
+2 - PHP,SQL,Mysql                                                                               
 
 #Interfaces
 
