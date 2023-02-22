@@ -21,4 +21,14 @@ Modifier son menu en une clic
 Meilleure qualité de service 
 Traduction de la carte dans plusieurs langues
 Des photos pour illustrer vos plats, vos recettes
-la protection des informations ![image](https://user-images.githubusercontent.com/46203942/220678702-5756e063-0a8b-4b35-bba9-f0473ae1aee1.png)
+la protection des informations
+
+#Outils
+
+1 - HTML,CSS,JS                                                                     
+2 - PHP,SQL,Mysql
+
+#Interfaces
+
+Client : https://resthom.000webhostapp.com/                                         
+Admin : https://resthom.000webhostapp.com/admin/login.php
